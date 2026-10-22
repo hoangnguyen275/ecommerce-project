@@ -16,7 +16,6 @@ A full-featured online shopping storefront built with **React 19**, **TypeScript
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
 - [Getting Started](#-getting-started)
 - [Available Scripts](#-available-scripts)
 - [Project Structure](#-project-structure)
@@ -24,7 +23,6 @@ A full-featured online shopping storefront built with **React 19**, **TypeScript
 - [How It Works](#-how-it-works)
 - [Testing](#-testing)
 - [Building for Production](#-building-for-production)
-- [Acknowledgements](#-acknowledgements)
 
 ---
 
