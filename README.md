@@ -61,22 +61,6 @@ A full-featured online shopping storefront built with **React 19**, **TypeScript
 | Linting         | ESLint 9 + typescript-eslint |
 | Optimization    | React Compiler (`babel-plugin-react-compiler`) |
 
----
-
-## 📸 Screenshots
-
-> _Add your screenshots to a `docs/` folder and update the paths below._
-
-| Home | Checkout |
-|------|----------|
-| ![Home page](docs/home.png) | ![Checkout page](docs/checkout.png) |
-
-| Orders | Tracking |
-|--------|----------|
-| ![Orders page](docs/orders.png) | ![Tracking page](docs/tracking.png) |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -233,15 +217,3 @@ npm start
 # → http://localhost:3000
 ```
 
----
-
-## 🙏 Acknowledgements
-
-- Built while following the [SuperSimpleDev](https://github.com/SuperSimpleDev) React course and its [ecommerce-project](https://github.com/SuperSimpleDev/ecommerce-project).
-- Product images and design assets come from the course materials.
-
----
-
-## 📄 License
-
-This project is for educational purposes. Add a license of your choice (for example, [MIT](https://choosealicense.com/licenses/mit/)) before distributing.
